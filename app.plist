@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+  <dict>
+    <key>items</key>
+    <array>
+      <dict>
+        <key>assets</key>
+        <array>
+          <dict>
+            <key>kind</key>
+            <string>software-package</string>
+            <key>url</key>
+            <string><![CDATA[https://d.haicao666.com/index.php?explorer/fileDownload&accessToken=8977PvL8HTYTJ1x8KIrK3N-PBZQsbr_wAkMDNxm26qcpl7hkFtTUp28fWzWGzT8GY9M67dVUPA&path=%2Fwww%2Fwwwroot%2Fd.haicao.xyz%2Fdata%2FUser%2Fadmin%2Fhome%2F%E6%96%87%E4%BB%B6%2Fapp.ipa]]></string>
+          </dict>
+        </array>
+        <key>metadata</key>
+        <dict>
+          <key>bundle-identifier</key>
+          <string>com.langdie.jfq</string>
+          <key>bundle-version</key>
+          <string><![CDATA[1.1.0]]></string>
+          <key>kind</key>
+          <string>software</string>
+          <key>title</key>
+          <string><![CDATA[¹²Ïí×¬×¬]]></string>
+        </dict>
+      </dict>
+    </array>
+  </dict>
+</plist>
